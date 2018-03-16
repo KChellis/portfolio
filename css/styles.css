@@ -6,7 +6,7 @@ body {
 .jumbotron {
   background-color:#bc97d8;
   color: #310e56;
-  border: 10px solid #09635f;
+  border: 16px solid #09635f;
   border-style: double;
   margin-top: 10px;
 }
@@ -21,12 +21,14 @@ a:hover {
   color: #a4d9db;
 }
 .about img {
-  float: left;
   height: 150px;
+}
+.me {
+  float: left;
   margin-right: 10px;
 }
-.about p {
-  margin-left: 10px;
+.me p {
+  text-align: center;
 }
 .panel-heading {
   background-color: #bc97d8;
@@ -65,4 +67,14 @@ span {
 }
 .projects ul {
   margin-left: 10px;
+}
+.hobbies img {
+  height: 150px;
+}
+div.gratch {
+  float: right;
+  margin: 10px;
+}
+.gratch p {
+  text-align: center;
 }
