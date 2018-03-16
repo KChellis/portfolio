@@ -14,6 +14,9 @@ body {
   background-color: #bc97d8;
   border: 4px solid #09635f;
 }
+a {
+  color: #310e56;
+}
 .nav a {
   color: #310e56;
 }
