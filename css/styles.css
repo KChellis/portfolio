@@ -1,6 +1,5 @@
 body {
   background-image: url("../img/background.jpg");
-  color: #bc97d8;
   font-family: serif;
   font-size: 18px;
 }
@@ -9,6 +8,16 @@ body {
   color: #310e56;
   border: 6px solid #09635f;
   margin-top: 10px;
+}
+.navbar {
+  background-color: #bc97d8;
+}
+.nav a {
+  color: #310e56;
+}
+a:hover {
+  background-color: #15797c;
+  color: #a4d9db;
 }
 .about img {
   float: left;
@@ -28,11 +37,11 @@ body {
   border: 4px solid #09635f;
   margin-top: 10px;
 }
-a {
+.projects a {
   text-decoration: underline;
   color: #310e56;
 }
-a:hover {
+.projects a:hover {
   background-color: #15797c;
   color: #a4d9db;
 }
