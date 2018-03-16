@@ -6,17 +6,18 @@ body {
 .jumbotron {
   background-color:#bc97d8;
   color: #310e56;
-  border: 6px solid #09635f;
+  border: 10px solid #09635f;
+  border-style: double;
   margin-top: 10px;
 }
 .navbar {
   background-color: #bc97d8;
+  border: 4px solid #09635f;
 }
 .nav a {
   color: #310e56;
 }
 a:hover {
-  background-color: #15797c;
   color: #a4d9db;
 }
 .about img {
@@ -33,19 +34,23 @@ a:hover {
 }
 .panel {
   background-color: #d3b7e8;
-  color: black;
+  color: #310e56;
   border: 4px solid #09635f;
   margin-top: 10px;
 }
-.projects a {
+.projects a:first-child {
   text-decoration: underline;
   color: #310e56;
 }
+.projects a:last-child {
+  text-decoration: none;
+  color: #310e56;
+}
 .projects a:hover {
-  background-color: #15797c;
+  background-color: #fff;
   color: #a4d9db;
 }
-h1, h2 {
+h1, h2, h3 {
   text-align: center;
 }
 .panel h3 {
