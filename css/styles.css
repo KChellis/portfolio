@@ -1,3 +1,17 @@
+body {
+  background-color: #310e56;
+  color: #716182;
+}
 .head img{
   height: 100px;
+}
+.panel-heading{
+  background-color: #4ba09c;
+}
+.panel {
+  background-color: #53ada9;
+  color: black;
+}
+a{
+  color: #310e56;
 }
