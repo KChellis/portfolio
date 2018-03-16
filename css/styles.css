@@ -11,6 +11,7 @@ body {
 .panel {
   background-color: #53ada9;
   color: black;
+  border: 2px solid #09635f;
 }
 a{
   color: #310e56;
