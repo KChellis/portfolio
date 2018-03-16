@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage was desogned as a code review project to create a portfolio where Kristen Chellis can display the project she has worked on, using the HTML and CSS techniques learned durig the week._
+_This webpage was designed as a code review project to create a portfolio where Kristen Chellis can display the projects she has worked on, using the HTML and CSS techniques learned during the week._
 
 ## Setup/Installation Requirements
 
@@ -24,7 +24,7 @@ _If you have any questions concerns or suggestions please contact Kristen at Pea
 
 ## Technologies Used
 
-_This webpage makes use of HTML, CSS, and Bootstrap 3.3.7 styling sheet_
+_This webpage makes use of HTML, CSS, Git and Bootstrap 3.3.7 styling sheet_
 
 ### License
 
