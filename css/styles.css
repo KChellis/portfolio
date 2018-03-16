@@ -1,18 +1,33 @@
 body {
   background-color: #310e56;
   color: #716182;
+  font-family: serif;
+  font-size: 18px;
 }
-.head img{
-  height: 100px;
+.about img {
+  float: left;
+  height: 150px;
+  margin-right: 10px;
 }
-.panel-heading{
+.about p {
+  margin-left: 10px;
+}
+.panel-heading {
   background-color: #4ba09c;
+  margin-top: 5px;
 }
 .panel {
   background-color: #53ada9;
   color: black;
   border: 2px solid #09635f;
+  margin-top: 10px;
 }
-a{
+a {
   color: #310e56;
+}
+h1 {
+  font-size: 50px;
+}
+.panel h3 {
+  font-size: 22px;
 }
