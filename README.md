@@ -6,7 +6,8 @@
 
 ## Description
 
-_This webpage was designed as a code review project to create a portfolio where Kristen Chellis can display the projects she has worked on, using the HTML and CSS techniques learned during the week._
+_This webpage was designed as a code review project to create a portfolio where Kristen Chellis can display the projects she has worked on, using the HTML and CSS techniques learned during the week.
+https://kchellis.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
